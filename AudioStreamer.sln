@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServerAsp.Net", "AudioStreamer\ServerAsp.Net.csproj", "{4FEA9088-FA88-4991-9CE6-F2A0A4CAAE28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Streamer", "Streamer\Streamer.csproj", "{0D16C1BE-AD1E-4B10-A4FF-52559E06B1AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FEA9088-FA88-4991-9CE6-F2A0A4CAAE28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FEA9088-FA88-4991-9CE6-F2A0A4CAAE28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FEA9088-FA88-4991-9CE6-F2A0A4CAAE28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FEA9088-FA88-4991-9CE6-F2A0A4CAAE28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D16C1BE-AD1E-4B10-A4FF-52559E06B1AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D16C1BE-AD1E-4B10-A4FF-52559E06B1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D16C1BE-AD1E-4B10-A4FF-52559E06B1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D16C1BE-AD1E-4B10-A4FF-52559E06B1AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D8B8CC6-8799-42D0-A130-7784E684F391}
+	EndGlobalSection
+EndGlobal
